@@ -1,12 +1,12 @@
 # Book-Store-Management-system
 
-A full fledged library or book management system with a static login system and all operation which can be peformed
+A full fledged library or book management system with a login & signup system and all operation which can be peformed
 by a bookstore manager.
 
 ------ Based on python GUI TKINTER and python MYSQL.
 
 Functions:
-
+Authentication->LOGIN And SignUP(MASTER CODE=123456A used for signup authentication).
 insertion ->insert any book with title as compulsion other fields can be empty and book insetred is shown alongwith.
 deletion ->select the file and delete.
 update ->select and make neccessary changes and press update.
@@ -20,7 +20,7 @@ Additional Features:
 -->> a real time running clock.
 -->> full window resolution with designed exit button.
 -->> additional exceptional handling for user to go smoothly following all constraints.
--->> login system is provided and python file to add new login id's manually.
+-->> login system and signup system(with mastercode signup authentication)
 
 Files Description:
 
