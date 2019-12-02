@@ -5,6 +5,10 @@ by a bookstore manager.
 
 ------ Based on python GUI TKINTER and python MYSQL.
 
+USER MODES:
+1)BOOKSTORE KEEPER OR OWNER(ACCESS TO ALL OPERATIONS)
+2)GUEST OR CUSTOMER MODE(ACCESS TO ONLY SEARCH AND SELECT OPERTAION)
+
 Functions:
 Authentication->LOGIN And SignUP(MASTER CODE=123456A used for signup authentication).
 insertion ->insert any book with title as compulsion other fields can be empty and book insetred is shown alongwith.
@@ -29,6 +33,8 @@ operations_stu-->>loaded with system window and all functions & features.
 passdata-->> file to match login id and password in database.
 fetchall-->> a introductory program to show how to setup basic python mysql connection and basic operations.
 insert-->> to remove duplication ambiguity in insertion operation.
+signup-->for new user addition
+guest mode--> open the interface provided for customer
 
 packages used:python(3.7)
 
